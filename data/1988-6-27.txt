@@ -1,0 +1,1 @@
+=IF(RIGHT(F:F,1)="M",LEFT(F:F,LEN(F:F)-1)*10^3,LEFT(F:F,LEN(F:F)-1))
